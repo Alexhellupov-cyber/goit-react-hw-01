@@ -1,7 +1,6 @@
 import React from "react";
 import Profile from "../Profile/Profile";
-import userData from "/src/components/Profile/userData.json";
-
+import userData from "../Profile/userData.json";
 import friends from "../FriendList/friends.json";
 import FriendList from "../FriendList/FriendList";
 import TransactionHistory from "../Transaction/TransactionHistory";
@@ -26,3 +25,5 @@ export default function App() {
     </>
   );
 }
+
+

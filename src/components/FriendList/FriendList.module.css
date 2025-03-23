@@ -1,12 +1,12 @@
 .ulFriendList {
-    display: flex;
-    list-style: none;
-    gap: 20px;
-    justify-content: center;
-  }
-  
-  .liFriendList {
-    border: 1px solid;
-    border-radius: 20px;
-    padding: 20px;
-  }
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  justify-content: center;
+}
+
+.liFriendList {
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 20px;
+}
